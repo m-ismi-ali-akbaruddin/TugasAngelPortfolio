@@ -1,0 +1,19 @@
+nav {
+  background-color: rgba(0, 86, 184, 0.897);
+}
+.jumbotron {
+  padding: 8rem 1rem;
+}
+p {
+  color: rgb(56, 3, 141);
+}
+body {
+  background-color: rgba(128, 229, 255, 0.911);
+}
+button {
+  width: 100%;
+}
+img {
+  border-radius: 10px;
+}
+
